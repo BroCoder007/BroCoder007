@@ -16,6 +16,7 @@ I'm a passionate student with **4+ years of coding experience** dedicated to:
 - 🔐 **Ethical Hacking** using open-source tools
 - ⚙️ **DevOps Practices** for secure and efficient deployments
 - 🏗️ **Building scalable architectures** with security-first approach
+- 📱 **Full-stack & Android Development** with modern technologies
 - 🤝 **Open-source contributions** and community engagement
 
 My philosophy: *Write code that's not just efficient, but extremely secure.*
@@ -34,10 +35,15 @@ My philosophy: *Write code that's not just efficient, but extremely secure.*
 - Container & Orchestration
 - Infrastructure as Code
 
+**Mobile & Web Development:**
+- Android Development (Kotlin, Java)
+- Full-stack Web Applications (JavaScript)
+- UI/UX Implementation
+
 **Languages & Technologies:**
 - **Languages:** Python, Rust, JavaScript, Java, Kotlin
 - **Tools:** Ollama, Git/GitHub, Open-source Security Tools
-- **Specializations:** Secure Development, Automation, Tool Development
+- **Specializations:** Secure Development, Automation, Tool Development, Mobile Apps
 
 ---
 
@@ -65,11 +71,25 @@ My philosophy: *Write code that's not just efficient, but extremely secure.*
 - Collaborating with the open-source community
 - Join the [Warera Discord](https://discord.gg/warera) community!
 
+### 📱 **[NothiNGChargingMeter](https://github.com/BroCoder007/NothiNGChargingMeter)**
+*Unofficial Android app for Nothing phone glyph lights charging visualization*
+- Built with **Kotlin** for modern Android development
+- Real-time charging meter with glyph light integration
+- Sleek UI/UX design
+- Community-reviewed and open-source
+
 ### 🛡️ **[Agent-48 WITH Antidote](https://github.com/BroCoder007/Agent-48-WITH-antidote)**
 *Malware counteraction and security solution*
 - **Python**-based security response
 - Demonstrates ethical hacking defense mechanisms
 - Open-source antidote to malware threats
+
+### 📋 **[ExamSurvivalApp](https://github.com/BroCoder007/ExamSurvivalApp)**
+*Modern task management and exam preparation application*
+- Built with **Java** for robust Android performance
+- Intuitive task management interface
+- Study schedule & exam preparation features
+- Clean architecture and user-friendly design
 
 ---
 
@@ -88,6 +108,7 @@ My philosophy: *Write code that's not just efficient, but extremely secure.*
 - DevOps automation & best practices
 - Open-source security tools integration
 - Secure-by-default architecture patterns
+- Modern Android development practices
 - Community contributions & mentorship
 
 ---
@@ -97,6 +118,7 @@ My philosophy: *Write code that's not just efficient, but extremely secure.*
 - **Active Contributor** - Regular updates, maintenance, and community participation
 - **4+ Year Journey** - Continuous learning and growth
 - **Multi-Language Developer** - Versatile across Rust, Python, JavaScript, Java, Kotlin
+- **Full-Stack & Mobile Developer** - From backend security to Android UI
 - **Open-Source Advocate** - Believer in community-driven development & security
 
 ---
@@ -106,7 +128,8 @@ My philosophy: *Write code that's not just efficient, but extremely secure.*
 💭 **I'm interested in:**
 - Collaborating on security-focused projects
 - Contributing to DevOps automation tools
-- Mentoring students in ethical hacking
+- Building innovative Android applications
+- Mentoring students in ethical hacking & mobile dev
 - Building secure, efficient solutions
 - Open-source community engagement
 
@@ -120,7 +143,7 @@ My philosophy: *Write code that's not just efficient, but extremely secure.*
 
 ## 📈 My Repositories
 
-Explore more of my work across security, DevOps, and full-stack development at [@BroCoder007](https://github.com/BroCoder007?tab=repositories)
+Explore more of my work across security, DevOps, Android development, and full-stack projects at [@BroCoder007](https://github.com/BroCoder007?tab=repositories)
 
 ---
 
