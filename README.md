@@ -58,10 +58,9 @@ My philosophy: *Write code that's not just efficient, but extremely secure.*
 
 ### 🛍️ **[Jugaad - The Online Thrift Store](https://github.com/BroCoder007/Jugaad-TheOnlineThriftStore)**
 *Anonymous peer-to-peer marketplace with privacy-first design*
-- Built with **JavaScript**
-- Anonymous buyer-seller communication
-- Bidding system for competitive pricing
-- Focus on user privacy and security
+- Full-stack app (React + Express + SQLite) with working auth and item-scoped chat
+- Bidding and anonymity are the core pitch and still in progress
+- Actively being built out toward the full feature set
 
 ### 🤖 **[Warera Discord Bot Contributions](https://github.com/BroCoder007)**
 *Active contributor to the Warera Discord Bot community*
@@ -98,7 +97,22 @@ My philosophy: *Write code that's not just efficient, but extremely secure.*
 - **[Git & GitHub Workshop](https://github.com/BroCoder007/git-github-workshop)** - Beginner-friendly guide to version control & open-source contribution
 - **[SimpleBlockChainTool](https://github.com/BroCoder007/SimpleBlockChainTool)** - Blockchain fundamentals with LinkedList implementation
 - **[Loopy (Slitherlink Puzzle)](https://github.com/BroCoder007/Loopy_SimonTatham_Games)** - Logic puzzle solver in Python
-- **[Conflict Simulation](https://github.com/BroCoder007/conflict-simuation)** - Data-driven conflict analysis tool
+
+---
+
+## 🧭 Currently Planning: Conflict Simulation
+
+**[Conflict Simulation](https://github.com/BroCoder007/conflict-simuation)** *(design phase — repo currently holds scope only, build starting soon)*
+
+A simulation engine modeling nation-vs-nation conflict outcomes based on military strength, resources, terrain, alliances, and historical war data. Planned build:
+
+- **Domain + backend:** Java, Spring Boot, Spring Security, JPA/Hibernate — `Nation`/`Military`/`Conflict` as typed classes
+- **Alliance modeling:** graph-based (JGraphT) — nations as nodes, treaties as weighted edges, escalation logic
+- **Simulation core:** Lanchester's Laws for time-based attrition, with terrain and logistics modifiers
+- **Calibration:** weights tuned against the Correlates of War (COW) historical dataset instead of guessed values
+- **Uncertainty:** Monte Carlo layer over minor factors (morale, weather, logistics) for probabilistic outcomes rather than a single result
+- **Frontend:** React + Leaflet/Mapbox for region selection and outcome visualization
+- **Infra:** Dockerized services, Kubernetes manifests for the (parallelizable) simulation workers, CI/CD via GitHub Actions
 
 ---
 
