@@ -26,6 +26,26 @@ A C application for password-based file encryption, local vault management and h
 An unofficial Android app that maps battery charging progress to Glyph lights on supported Nothing phones. Includes a Compose interface and foreground service.  
 **Kotlin · Jetpack Compose · Android · Nothing Glyph SDK**
 
+### [🌍 Conflict Atlas](https://github.com/BroCoder007/conflict-simuation)
+A map-based conflict data observatory and educational scenario simulator, with country profiles and transparent model assumptions. The [live map](https://brocoder007.github.io/conflict-simuation/) displays dated snapshots; scenarios require the Java application.  
+**Java · Spring Boot · Svelte · TypeScript · MapLibre**
+
+### [📋 Rollcall](https://github.com/BroCoder007/attendance)
+A classroom attendance application with timed check-ins, short-lived codes, staff confirmation and CSV exports.  
+**SvelteKit · TypeScript · Node.js · SQLite**
+
+### [🛡️ Aegis AI](https://github.com/BroCoder007/Aegis-AI)
+A desktop file-triage tool with optional ClamAV scans, selected-folder monitoring, encrypted quarantine and explanations from local AI models. It complements existing antivirus software.  
+**Rust · Tauri · TypeScript · ClamAV · Ollama**
+
+### [🎬 QualiStream](https://github.com/BroCoder007/QualiStream)
+A Chromium extension for adjusting the appearance of supported web videos, with playback buffer indicators.  
+**JavaScript · HTML · CSS · Chromium extensions**
+
+### [🕸️ ScraperPro](https://github.com/BroCoder007/scraperPro)
+A website crawler that maps linked pages to SQLite and records passive security observations for manual review.  
+**Python · SQLite · Playwright**
+
 ## 📚 Completed learning projects
 
 - [ExamSurvivalApp](https://github.com/BroCoder007/ExamSurvivalApp) — Java console task manager using a custom doubly linked list.
