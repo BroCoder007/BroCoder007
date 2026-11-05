@@ -1,61 +1,41 @@
-# Abhinav Raghavendra
+# Hi, I'm Abhinav Raghavendra 👋
 
-**Computer Science undergraduate | Software development, DevOps & security**
+**Computer Science undergraduate · Software development · Security**
 
-I'm pursuing a B.Tech in Computer Science and Engineering at Amrita School of Computing, Coimbatore (2024-2028). I build practical software and security tools, with an interest in backend development and reliable delivery.
+I build practical software, explore security, and enjoy turning data into useful tools. I'm pursuing a B.Tech in Computer Science and Engineering at Amrita School of Computing, Coimbatore (2024–2028).
 
-## Selected projects
+[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav-raghavendra-328134362/) [![GitHub](https://img.shields.io/badge/Explore-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BroCoder007)
 
-### [Department of Phisheries](https://github.com/BroCoder007/Department_Of_Phisheries)
-A statistical case study and interactive application for the PhiUSIIL phishing URL dataset.
+## 🛠️ Languages & tools
 
-- Six Streamlit dashboards covering data quality, exploratory analysis, hypothesis tests, model comparison, prediction and conclusions.
-- Analysis of 235,795 dataset records, with separate URL-level and host-level study populations.
-- Four fitted classifiers, a 10,000-host sampling comparison across 15 statistical questions, and CSV/API exports.
-- Includes reproducible artifacts, setup documentation and an application test suite.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
-**Stack:** Python, Streamlit, pandas, SciPy, scikit-learn, Plotly, SQLite.
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![React](https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-### [Secure File Manager](https://github.com/BroCoder007/secure-file-manager)
-A C application for password-based file encryption, local vault management and file hashing.
+## 🚀 Selected projects
 
-- AES-256-CBC encryption with PBKDF2-HMAC-SHA-256 key derivation and random salts.
-- Command-line operations to encrypt, decrypt, add, list, retrieve and delete vault files.
-- SHA-256/SHA-512 hashing utilities and a GTK3 interface.
+### [🎣 Department of Phisheries](https://github.com/BroCoder007/Department_Of_Phisheries)
+An interactive statistical case study of the PhiUSIIL phishing URL dataset. Six Streamlit dashboards cover data quality, exploration, hypothesis tests, model comparison and prediction, with reproducible artifacts and exports.  
+**Python · Streamlit · pandas · SciPy · scikit-learn · Plotly · SQLite**
 
-**Stack:** C, OpenSSL, GTK3, Make.
+### [🔐 Secure File Manager](https://github.com/BroCoder007/secure-file-manager)
+A C application for password-based file encryption, local vault management and hashing, with command-line tools and a GTK3 interface.  
+**C · OpenSSL · GTK3 · Make**
 
-### [Nothing Charging Meter](https://github.com/BroCoder007/NothiNGChargingMeter)
-An unofficial Android application that maps battery charging progress to Glyph lights on supported Nothing phones.
+### [🔋 Nothing Charging Meter](https://github.com/BroCoder007/NothiNGChargingMeter)
+An unofficial Android app that maps battery charging progress to Glyph lights on supported Nothing phones. Includes a Compose interface and foreground service.  
+**Kotlin · Jetpack Compose · Android · Nothing Glyph SDK**
 
-- Foreground service listens for battery-state changes and updates the Glyph display.
-- Jetpack Compose interface with start/stop controls, a light-test action and phone-model selection.
-- Persists model preferences with DataStore; a version 1.0 release APK is included in the repository.
+## 📚 Completed learning projects
 
-**Stack:** Kotlin, Jetpack Compose, Android services, DataStore, Nothing Glyph SDK.
+- [ExamSurvivalApp](https://github.com/BroCoder007/ExamSurvivalApp) — Java console task manager using a custom doubly linked list.
+- [SimpleBlockChainTool](https://github.com/BroCoder007/SimpleBlockChainTool) — Java linked-list ledger simulation.
 
-## Completed learning projects
+## 🌟 Background
 
-- **[ExamSurvivalApp](https://github.com/BroCoder007/ExamSurvivalApp)** — Java console task manager using a custom doubly linked list; supports adding, removing and listing tasks in both directions.
-- **[SimpleBlockChainTool](https://github.com/BroCoder007/SimpleBlockChainTool)** — Java linked-list ledger simulation with add, find, delete, forward/reverse traversal and grouping by block type.
-
-## Skills
-
-- **Languages:** Python, JavaScript/TypeScript, C, Java, Rust, Kotlin, Shell.
-- **Application development:** React, Next.js, FastAPI, REST APIs, SQLite, GTK3.
-- **Development tools:** Git, GitHub, GitHub Actions, Linux; Docker fundamentals.
-- **Security and networking:** OpenSSL, Kali Linux, Nmap, Wireshark; networking coursework.
-
-## Background
-
-- Short-term Endpoint Security Internship at **Hitachi Systems Pvt Ltd**.
+- Endpoint Security Intern at **Hitachi Systems Pvt Ltd**.
 - **Google Cybersecurity Professional Certificate** — Google/Coursera, November 2025.
 - **38th among 500+ teams** at Pragyan CTF, NIT Trichy.
 - **Special Mention** at Amrita's 12-hour LangChain Hackathon.
 
-## Connect
-
-[LinkedIn](https://www.linkedin.com/in/abhinav-raghavendra-328134362/) · [GitHub](https://github.com/BroCoder007)
-
 Open to software engineering internships and collaboration on development, automation and security tooling.
-
